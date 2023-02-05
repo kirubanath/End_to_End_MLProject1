@@ -11,6 +11,11 @@ This is an End to End ML project created on boston housing price dataset. The ai
 
 ### Steps: 
 
+**Create a new repository:**
+1. .gitignore
+2. licence
+3. readme
+
 **Create a new environment for the project:**
 
 ```
@@ -50,6 +55,22 @@ git add file_name
 
 git add . : to add everything except the ones in gitignore
 ```
+
+**Committing the local files to the github repo:**
+
+```
+git commit -m "Commit message" :creates a snapshot in the local directory
+```
+
+**Pushing to the repo:**
+```
+git push origin main : from current env to main branch
+```
+
+**Create the app using Flask**
+
+**Use Postman to verify the API request**
+
 
 
 
