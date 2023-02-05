@@ -73,7 +73,7 @@ git push origin main : from current env to main branch
 
 **Use Postman to verify the API request**
 
-**Creating the Procfile for deployment**
+**Creating the Procfile for deployment : gunicorn**
 
 
 
