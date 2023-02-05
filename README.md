@@ -73,7 +73,16 @@ git push origin main : from current env to main branch
 
 **Use Postman to verify the API request**
 
-**Creating the Procfile for deployment : gunicorn**
+**Create the docker file**
+
+**setup github actions**
+
+1. .github folder
+2. workflows subfolder
+3. main.yaml file
+4. add the secret keys in github repo
+
+
 
 
 
