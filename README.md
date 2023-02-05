@@ -73,6 +73,9 @@ git push origin main : from current env to main branch
 
 **Use Postman to verify the API request**
 
+### Deploying the app in Heroku
+
+**Creating the Procfile**
 
 
 
