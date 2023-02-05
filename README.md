@@ -2,7 +2,8 @@
 
 This is an End to End ML project created on boston housing price dataset. The aim of this is to understand the life cycle of an ML project.
 
-## [Webapp for house price prediction link](https://ml-project-housingprice.herokuapp.com/)
+## [The Webapp](https://ml-project-housingprice.herokuapp.com/)
+(The app looks very basic but the objective here is understanding MLOPS)
 
 ### Software and Tools requirements:
 
