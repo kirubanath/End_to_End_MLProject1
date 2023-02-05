@@ -1,2 +1,3 @@
 # End_to_End_MLProject1
-On boston housing price
+
+This is an End to End ML project created on boston housing price dataset. The aim of this is to understand the life cycle of an ML project.
