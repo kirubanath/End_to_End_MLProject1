@@ -67,9 +67,13 @@ git commit -m "Commit message" :creates a snapshot in the local directory
 git push origin main : from current env to main branch
 ```
 
-**Create the app using Flask**
+**Create the home.html file for the webapp**
+
+**Create the app using Flask with various funcitonalities defined**
 
 **Use Postman to verify the API request**
+
+
 
 
 
