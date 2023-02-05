@@ -78,7 +78,7 @@ git push origin main : from current env to main branch
 
 **Create the docker file**
 
-**setup github actions**
+**Setup github actions**
 
 1. .github folder
 2. workflows subfolder
